@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentsTest</string>
+    <string name="not_selected">Не выбрано</string>
+</resources>
